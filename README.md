@@ -1,4 +1,4 @@
-#👋 Hello, I’m @Baltazarya, an statistician looking to star a few projects.
+# 👋 Hello, I’m @Baltazarya, an statistician looking to star a few projects.
   Said projects will be linked here when they are completed(Hopefully :))
 
 If you want to reach out to me please do so via:
