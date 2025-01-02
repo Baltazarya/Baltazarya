@@ -1,8 +1,9 @@
-👋 Hello, I’m @Baltazarya, an statistician 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#👋 Hello, I’m @Baltazarya, an statistician looking to star a few projects.
+  Said projects will be linked here when they are completed(Hopefully :))
+
+If you want to reach out to me please do so via:
+  - Email: henbaltazart@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/henrique-baltazar-34b21621a/
 
 
 <!---
