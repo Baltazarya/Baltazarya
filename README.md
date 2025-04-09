@@ -10,7 +10,9 @@ Se você quiser entrar em contato comigo, faça isso através de:
 
 -----------------------------------------
 # 👋 Hello, I’m @Baltazarya, an statistician looking to start a few projects.
-  - 
+  - [indicadores_eco](https://github.com/Baltazarya/indicadores_eco) is an ETL case with data visualization
+  - [stock_monitoring](https://github.com/Baltazarya/stock-market-monitoring) and [weather-check](https://github.com/Baltazarya/weather-check-app) are projects still under development, with the aim of improving my ETL and data visualization process
+  - Probably some modeling projects
 
 If you want to reach out to me please do so via:
   - Email: henbaltazart@gmail.com
